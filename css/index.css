@@ -1,0 +1,225 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #c7e5f0;
+  overflow-x: hidden;
+}
+
+.item-container {
+  width: 100%;
+  margin: 0 atuo;
+}
+
+.item-container-nav {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 50px;
+  background: url(../img/0.jpg) no-repeat;
+  background-position: center;
+  z-index: 1;
+}
+
+.mod-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.mod-content {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+}
+
+.container-nav {
+  width: 1200px;
+}
+
+.container-nav li {
+  float: left;
+  width: 240px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}
+
+.container-nav li a {
+  display: block;
+  width: 100%;
+  height: 50px;
+  text-indent: -9999px;
+}
+
+.hrefs {
+  height: 50px;
+}
+
+.hrefs1 {
+  height: 15px;
+}
+
+.hrefs2 {
+  height: 30px;
+}
+
+.item-banner {
+  position: relative;
+  left: 50%;
+  width: 1920px;
+  margin-left: -960px;
+}
+
+.item-content-wrap {
+  position: relative;
+  left: 50%;
+  width: 1920px;
+  margin-left: -960px;
+}
+
+.item-container-goods {
+  width: 100%;
+  margin: 10px auto 1px;
+}
+
+.goods-content {
+  position: relative;
+  float: left;
+  margin: 0 10px 10px 0;
+  width: 290px;
+  height: 460px;
+  background-color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+}
+
+.img {
+  width: 290px;
+  height: 290px;
+}
+
+.title {
+  margin: 24px 15px 0 15px;
+  color: #222222;
+}
+
+.desc {
+  margin: 5px 15px 0 15px;
+  font-size: 16px;
+  color: #666666;
+}
+
+.sale {
+  position: absolute;
+  bottom: 171px;
+  padding: 3px 15px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #115c7a;
+  border-radius: 14px 14px 14px 0px;
+}
+
+.price-content {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #115c7a;
+  color: #ffffff;
+  line-height: 36px;
+  border-radius: 20px;
+  padding: 0 30px;
+  vertical-align: middle;
+}
+
+.currency {
+  font-size: 12px;
+}
+
+.price {
+  font-size: 22px;
+  vertical-align: middle;
+  margin-left: -3px;
+}
+
+area {
+  outline: none;
+}
+
+.item-container-LuckDraw {
+  position: relative;
+  left: 50%;
+  width: 1920px;
+  height: 575px;
+  margin-left: -960px;
+  padding-top: 36px;
+  background: url(https://res0.vmallres.com/shopdc/pic/db27f9bc-950f-4bbd-8ae8-a1ac809ebe1d.jpg) no-repeat;
+}
+
+.container-LuckDraw {
+  margin: px auto 31px;
+  width: 1200px;
+  height: 508px;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.LuckDraw-content {
+  float: left;
+  position: relative;
+  margin-left: 40px;
+  width: 715.5px;
+  height: 508px;
+}
+
+.item {
+  width: 220px;
+  height: 160px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -110px;
+  margin-top: -80px;
+}
+
+.i9 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -70px;
+  margin-top: -72px;
+}
+
+.vip-number {
+  width: 438.5px;
+  height: 420px;
+  float: right;
+  position: relative;
+  top: 88px;
+  background-color: rgb(231, 212, 212, .6);
+}
+
+.item-rules {
+  margin: 0 auto;
+  width: 267px;
+  height: 140px;
+  line-height: 1.7;
+  color: #908C8A;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.rule{
+  margin-left: 88px;
+  font-size: 14px;
+  color: #ea380f;
+  cursor: pointer;
+}
